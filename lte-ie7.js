@@ -18,7 +18,6 @@ window.onload = function() {
 			'icon-picture' : '&#x2a;',
 			'icon-musicoff' : '&#x2b;',
 			'icon-music' : '&#x2c;',
-			'icon-media' : '&#x2d;',
 			'icon-list' : '&#x2e;',
 			'icon-like' : '&#x2f;',
 			'icon-help' : '&#x30;',
@@ -29,7 +28,8 @@ window.onload = function() {
 			'icon-favorite' : '&#x35;',
 			'icon-download' : '&#x36;',
 			'icon-delete' : '&#x37;',
-			'icon-add' : '&#x38;'
+			'icon-add' : '&#x38;',
+			'icon-medal' : '&#x2d;'
 		},
 		els = document.getElementsByTagName('*'),
 		i, attr, html, c, el;
