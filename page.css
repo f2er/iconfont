@@ -12,8 +12,8 @@ body {
     text-align: center;
     background: #eee;
     padding: .75em;
-    margin: .75em 1.5em .75em 0;
-    width: 7.5em;
+    margin: .75em 1.6em .75em 1.7em;
+    width: 7.0em;
     border-radius: .25em;
     box-shadow: inset 0 0 0 1px #f8f8f8, 0 0 0 1px #CCC;
 }
@@ -69,10 +69,10 @@ a:hover, a:focus {color: #000;}
 .box1 {
     font-size: 16px;
     display: inline-block;
-    width: 15em;
+    width: 13em;
     padding: .25em .5em;
     background: #eee;
-    margin: .5em 1em .5em 0;
+    margin: .5em 0.6em .5em 0.7em;
 }
 .glyph .desc{ font-size:12px;}
 
